@@ -1,0 +1,21 @@
+                                                                               MEMORY
+
+memory are of two types :
+i) Primary memory
+ii) Secondary memory
+
+1) Primary memory are of two type:
+i) RAM (RANDAM ACCESS MEMORY)
+ii) ROM (READ ONLY MEMORY)
+
+It is temporary device
+
+Secondary memory :
+FOR EXAMPLE: 
+Pen drive
+DVD
+CD
+
+It is permanent storage device
+
+
